@@ -1,0 +1,15 @@
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\bin\Debug\net6.0\CSHARP_Delegates.exe
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\bin\Debug\net6.0\CSHARP_Delegates.deps.json
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\bin\Debug\net6.0\CSHARP_Delegates.runtimeconfig.json
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\bin\Debug\net6.0\CSHARP_Delegates.dll
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\bin\Debug\net6.0\CSHARP_Delegates.pdb
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\CSHARP_Delegates.csproj.AssemblyReference.cache
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\CSHARP_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\CSHARP_Delegates.AssemblyInfoInputs.cache
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\CSHARP_Delegates.AssemblyInfo.cs
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\CSHARP_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\CSHARP_Delegates.dll
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\refint\CSHARP_Delegates.dll
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\CSHARP_Delegates.pdb
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\CSHARP_Delegates.genruntimeconfig.cache
+C:\Users\Danik\source\repos\C#\CSHARP_DELEGATES\CSHARP_Delegates\obj\Debug\net6.0\ref\CSHARP_Delegates.dll
